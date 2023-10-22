@@ -19,6 +19,6 @@
 2. run npx cypress open in Terminal (To open cypress controller)
 3. click on the test.js file you would like to run
 
-***Note any other question related to cypress please vist there web site 
+***Note any other question related to cypress please visit their website 
 
 [Cypresslink](https://docs.cypress.io/guides/overview/why-cypress)
